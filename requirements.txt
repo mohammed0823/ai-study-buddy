@@ -1,0 +1,8 @@
+faiss_cpu==1.10.0
+pymupdf==1.25.5
+numpy==2.2.5
+openai==1.76.0
+pandas==2.2.3
+pyttsx3==2.98
+streamlit==1.44.1
+tqdm==4.67.1
