@@ -158,6 +158,7 @@ ai-study-buddy/
 ├── screenshots/
 ├── .gitignore
 ├── LICENSE
+├── Project.md
 ├── README.md
 ├── requirements.txt
 ├── requirements-dev.txt
